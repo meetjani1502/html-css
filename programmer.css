@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+  margin: 75px;
+  padding: 27px;
+  border: 50px solid saddlebrown;
+}
+h1 {
+  color: darkblue;
+  padding-left: 52px;
+  border: 70px solid seagreen;
+}
+p {
+  color: darkgoldenrod;
+  margin-bottom: 25px;
+  padding: 15px;
+}

@@ -1,0 +1,11 @@
+body{
+    background-color: darkcyan;
+     margin: 75px;
+    padding: 27px;
+    border: 90px solid saddlebrown;
+}
+p{
+    color: coral;
+    margin: 36px;
+    border: double red;
+}

@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+  margin: 75px;
+  padding: 27px;
+  border: 90px solid seagreen;
+}
+h1{
+    color: green;
+    text-transform: uppercase;
+    margin: 20px;
+    padding: 10px;
+    border: 80px solid tomato;
+}
+p{
+    color: darkgreen;
+}

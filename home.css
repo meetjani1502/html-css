@@ -1,0 +1,13 @@
+body{
+    color: black;
+    text-transform: capitalize;
+    margin: 75px;
+    padding: 27px;
+    border: 90px solid saddlebrown;
+}
+p{
+    color:darkmagenta;
+    margin: 30px;
+    padding: 20px;
+    border: double blue;
+}

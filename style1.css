@@ -1,0 +1,11 @@
+body{
+    background-color: blanchedalmond;
+    background-image: url("guru-shikhar-peak-cover.webp");
+    background-position: 0px;
+}
+a{
+    color: royalblue;
+    border: double peru;
+    margin: 98px;
+    padding: 30px;
+}

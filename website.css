@@ -1,0 +1,85 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.container {
+  height: 450px;
+  width: 100%;
+  background-image: url("p1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  animation-name: myany;
+  animation-duration: 9s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  border: 90px solid red;
+}
+@keyframes myany {
+  0% {
+    background-image: url("p1.png");
+  }
+  30% {
+    background-image: url("p2.jpg");
+  }
+  75% {
+    background-image: url("p3.jpg");
+  }
+  80% {
+    background-image: url("p4.jpg");
+  }
+}
+
+body {
+  background-color: brown;
+  margin: 45px;
+  border: 90px solid red;
+}
+.conntainer {
+  border: 45px solid red;
+}
+.conntainer2 {
+  border: 75px solid blue;
+}
+h1 {
+  text-align: center;
+}
+.class img {
+  float: right;
+  margin-right: 25px;
+  margin-top: 400px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+  padding-right: 110px;
+  padding: 57px;
+  margin-right: 457px;
+  padding-right: 145px;
+  width: 100px;
+  height: 100px;
+}
+p {
+  float: right;
+  margin-left: 20px;
+  border: 90px solid blue;
+  margin-bottom: 75px;
+  margin-right: 700px;
+  margin-top: 0px;
+  font-size: 45px;
+  text-align: right;
+  font-size: 20px;
+  padding-left: 40px;
+}
+.image2 {
+  padding-top: 45px;
+  margin-left: 0px;
+}
+p {
+  float: right;
+  padding: auto;
+  padding-right: 41px;
+}
+iframe {
+  float: right;
+  padding-top: auto;
+}

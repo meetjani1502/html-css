@@ -1,0 +1,14 @@
+body{
+    background-color: #ffff;
+    text-align: center;
+    letter-spacing: 1px;
+    border: auto;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+label{
+    margin: 0px;
+    padding-left: 0px;
+}
